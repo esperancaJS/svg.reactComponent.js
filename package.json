@@ -1,0 +1,24 @@
+{
+  "name": "svg.reactcomponent.js",
+  "version": "1.0.0",
+  "description": "An extension for svg.js which allows to insert react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esperancaJS/svg.reactComponent.js.git"
+  },
+  "keywords": [
+    "svg.js",
+    "react",
+    "component"
+  ],
+  "author": "Pedro Esperança",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esperancaJS/svg.reactComponent.js/issues"
+  },
+  "homepage": "https://github.com/esperancaJS/svg.reactComponent.js#readme"
+}
